@@ -1,0 +1,33 @@
+{
+    "C_Cpp.default.includePath": [
+        "/opt/homebrew/Cellar/allegro/5.2.9.1/include"
+    ],
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt -std=c11 -I/opt/homebrew/Cellar/allegro/5.2.9.0/include -L/opt/homebrew/Cellar/allegro/5.2.9.0/lib -lallegro_main -lallegro_ttf -lallegro_font -lallegro_image -lallegro_primitives -lallegro_acodec -lallegro_audio -lallegro -lmylib -Wall && $dir$fileNameWithoutExt",
+    },
+    "files.associations": {
+        "*.html": "html",
+        ".env": "raw",
+        "allegro.h": "c",
+        "allegro5.h": "c",
+        "allegro_image.h": "c",
+        "allegro_ttf.h": "c",
+        "shared.h": "c",
+        "scene_game.h": "c",
+        "map.h": "c",
+        "scene_settings.h": "c",
+        "allegro_primitives.h": "c",
+        "typeinfo": "c"
+    },
+    "cSpell.words": [
+        "acodec",
+        "Direc",
+        "eatfruit",
+        "MOVESOUND",
+        "NTHU",
+        "Pacman",
+        "pman"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    
+}
