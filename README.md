@@ -1,4 +1,4 @@
-## Project - Fresh1 - Introduction to Programming 1 - Pacman
+## Project - Freshman Fall - Introduction to Programming I - Pacman
 - a classic arcade game in C with allegro library.
 - Features included: Persistent scoreboard system with long-term data storage, Cheat mode for collision box visualization, Debug mode with ghost collision immunity, ...
 - For my I2P1 coursework, including all my exercises, some labs and some midterms, please refer to this repository: [Course-Fresh1-I2P1](https://github.com/rogerfan48/Course-Fresh1-I2P1)
